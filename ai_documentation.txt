@@ -1,0 +1,2 @@
+I used ai to support with learning how to format and write test functions (but didnt use AI generated test functions). I could not figure out how to get the text file of the chat in gemini, but i basically copy pasted code of the utils and asked for two simple tests. Following that format, I learned how to implement my own tests for the readligo section which are my own. I did not do the util tests because the code was convoluted enough and that making a simple test felt a little trivial.
+
